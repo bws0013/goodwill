@@ -1,0 +1,15 @@
+THE MAIN FILE TO RUN IS: files_to_data.py
+THE FILE TO COLLECT THE DATA IS: data.py
+
+https://cloud.iexapis.com/stable/stock/aapl/intraday-prices?token=pk_e73a73a9baba4353857fe53b45145072&exactDate=20200708
+
+20200424
+
+https://sandbox.iexapis.com/stable/stock/aapl/intraday-prices?token=Tsk_c771f29530a611e9958142010a80043c
+
+date,minute,label,high,low,average,volume,notional,numberOfTrades,marketHigh,marketLow,marketAverage,marketVolume,marketNotional,marketNumberOfTrades,open,close,marketOpen,marketClose,changeOverTime,marketChangeOverTime,symbol
+
+2020-04-24,12:08,12:08 PM,279.43,279.38,279.405,200,55881,2,279.505,279.25,279.389,34771,9714636.7559,163,279.43,279.38,279.355,279.285,0.006175951600705733,0.00687977511892746,AAPL
+
+2020-04-24,12:09,12:09 PM,279.375,279.31,279.326,100,27932.625,3,279.45,279.23,279.324,21464,5995419.7496,124,279.31,279.375,279.29,279.45,0.005891461701897887,0.006645524001729832,AAPL
+2020-04-24,12:10,12:10

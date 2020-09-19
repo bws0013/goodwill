@@ -1,0 +1,7 @@
+---
+sheet_talking:
+    sheet_key: <replace me with a sheets id>
+    sheet_name: api-test # I can be replaced with a different sheet name
+    format: True
+examine_pairs:
+    sig_figs: 5

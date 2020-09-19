@@ -1,0 +1,20 @@
+---
+ccc:
+    sig_figs: 5
+collect_data:
+    token: <replace me with an iex api token>
+    data_path: ./../data/
+files_to_data:
+    use_header: False
+    append: True
+    data_path: ./../data/
+    regex: ".*"
+    # regex: "(aapl.*|ba.*|cost.*)"
+sheet_talking:
+    sheet_key: <replace me with a sheets id>
+    sheet_name: api-test # I can be replaced with a different sheet name
+    format: True
+db:
+    host: localhost
+    user: root
+    password: ''

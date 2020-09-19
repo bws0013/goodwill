@@ -1,0 +1,11 @@
+secrets/
+data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pickle
+*.in
+
+secret_config.yaml
